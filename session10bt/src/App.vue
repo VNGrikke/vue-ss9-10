@@ -19,10 +19,12 @@
         crossorigin="anonymous"
       />
     </head>
+    <Table/>
   </div>
 </template>
 
 <script setup>
+import Table from './component/table.vue'
 </script>
 
 <style>
